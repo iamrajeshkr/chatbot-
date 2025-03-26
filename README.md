@@ -48,7 +48,7 @@ python test.py
 ## Credits
 
 This project was built by:
-- [Rajesh]([https://github.com/LeonBinder](https://github.com/iamrajeshkr))
+- [Rajesh]([https://github.com/iamrajeshkr])
 
 Some code components were inspired by and adapted from [Vercel's AI Chatbot](https://github.com/vercel/ai-chatbot).
 
