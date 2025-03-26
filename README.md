@@ -6,14 +6,14 @@ A lightweight and modern chat interface for LLM interactions with Markdown suppo
 
 A minimalist chat interface built with React and TypeScript, designed to be easily integrated with any LLM backend. Features a clean and modern design.
 
-![Demo](demo/image.png)
+
 
 ## Getting Started
 
 1. Clone the repository
 ```bash
-git clone https://github.com/ChristophHandschuh/chatbot-ui.git
-cd chatbot-ui
+git clone https://github.com/iamrajeshkr/chatbot-.git
+cd chatbot-
 ```
 
 2. Install dependencies
@@ -48,8 +48,7 @@ python test.py
 ## Credits
 
 This project was built by:
-- [Leon Binder](https://github.com/LeonBinder)
-- [Christoph Handschuh](https://github.com/ChristophHandschuh)
+- [Rajesh]([https://github.com/LeonBinder](https://github.com/iamrajeshkr))
 
 Some code components were inspired by and adapted from [Vercel's AI Chatbot](https://github.com/vercel/ai-chatbot).
 
